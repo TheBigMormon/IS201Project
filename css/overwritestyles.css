@@ -1,0 +1,16 @@
+a {
+    color: whitesmoke;
+}
+p {
+    color: darkblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 196, 0);
+}
+h3 {
+    color: rgb(93, 141, 255);
+    font-size: larger;
+    font-weight: bolder;
+}
